@@ -29,6 +29,7 @@ namespace Domashka6
             Console.WriteLine("----------------------------------");
 
 
+
         }
 
         static void Task1()
